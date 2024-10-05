@@ -6,12 +6,12 @@ Zara is a new programming language that has data types, `strings`, `float`, `int
 
 ### Assignment:
 
-•	Implement a basic symbol table for Zara, supporting variable declarations with their types (integer, float, string, array, and stack). Ensure the symbol table allows adding, updating, and retrieving symbols.
-•	Write a Zara program with various data types and sub-programs, and verify the symbol table's accuracy by logging symbol entries.
+* Implement a basic symbol table for Zara, supporting variable declarations with their types (integer, float, string, array, and stack). Ensure the symbol table allows adding, updating, and retrieving symbols.
+* Write a Zara program with various data types and sub-programs, and verify the symbol table's accuracy by logging symbol entries.
 
 ## Week 2: Lexical Analysis
 
 ### Assignment:
 
-•	Create a lexical analyzer for Zara that identifies tokens like keywords (if, else, do while), operators, data types, identifiers, and literals. Use regular expressions for token recognition.
-•	Test the lexical analyzer on sample Zara code to verify correct tokenization.
+* Create a lexical analyzer for Zara that identifies tokens like keywords (if, else, do while), operators, data types, identifiers, and literals. Use regular expressions for token recognition.
+* Test the lexical analyzer on sample Zara code to verify correct tokenization.
