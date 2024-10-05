@@ -1,4 +1,4 @@
-# Zara_project
+# Zara project
 
 Zara is a new programming language that has data types, `strings`, `float`, `integer`, `arrays` and `stack`. The operators are `equal sign`, `multiplication`, `division`, `subtraction`, `greater than`, `equal`. Furthermore, it has `if else`, `do while`, and `for loop`. Finally, it has `sub-programs` or `methods` plus `classes`. 
 
