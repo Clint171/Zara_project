@@ -15,3 +15,10 @@ Zara is a new programming language that has data types, `strings`, `float`, `int
 
 * Create a lexical analyzer for Zara that identifies tokens like keywords (if, else, do while), operators, data types, identifiers, and literals. Use regular expressions for token recognition.
 * Test the lexical analyzer on sample Zara code to verify correct tokenization.
+
+## Week 4: Syntax Analysis - Bottom Up
+
+### Assignment
+
+* Implement a bottom-up parser (Shift-Reduce or LR) for Zara, covering expression evaluation, conditionals, and loops. Ensure that it can detect conflicts and resolve shift-reduce ambiguities
+* Test the parser by analyzing Zara programs and ensuring correct parsing
