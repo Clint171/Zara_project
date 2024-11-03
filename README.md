@@ -22,3 +22,10 @@ Zara is a new programming language that has data types, `strings`, `float`, `int
 
 * Implement a bottom-up parser (Shift-Reduce or LR) for Zara, covering expression evaluation, conditionals, and loops. Ensure that it can detect conflicts and resolve shift-reduce ambiguities
 * Test the parser by analyzing Zara programs and ensuring correct parsing
+
+## Week 6: Syntax Directed Translation
+
+### Assignment
+
+* Implement syntax-directed translation rules for Zara to translate high-level constructs (such as expressions, loops, and sub-programs) into intermediate representations.
+* Use synthesized attributes to generate intermediate code as you parse Zara programs, ensuring it works for a variety of constructs.
